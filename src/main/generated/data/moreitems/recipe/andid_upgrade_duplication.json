@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "moreitems:andid",
+    "R": "moreitems:raw_andid_block",
+    "U": "moreitems:andid_upgrade"
+  },
+  "pattern": [
+    "AUA",
+    "ARA",
+    "AAA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "moreitems:andid_upgrade"
+  }
+}

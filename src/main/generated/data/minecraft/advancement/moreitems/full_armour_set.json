@@ -1,0 +1,75 @@
+{
+  "parent": "minecraft:moreitems/got_andide",
+  "criteria": {
+    "got_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "got_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_chestplate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "got_helm": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_helm"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "got_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.full_set"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "moreitems:andid_chestplate"
+    },
+    "title": {
+      "translate": "advancement.moreitems.full_set"
+    }
+  },
+  "requirements": [
+    [
+      "got_helm"
+    ],
+    [
+      "got_chestplate"
+    ],
+    [
+      "got_leggings"
+    ],
+    [
+      "got_boots"
+    ]
+  ],
+  "rewards": {
+    "experience": 2000
+  },
+  "sends_telemetry_event": true
+}

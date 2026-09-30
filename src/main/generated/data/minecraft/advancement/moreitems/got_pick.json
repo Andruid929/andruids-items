@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:moreitems/got_andide",
+  "criteria": {
+    "got_pick": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.got_pick"
+    },
+    "icon": {
+      "id": "moreitems:andid_pickaxe"
+    },
+    "title": {
+      "translate": "advancement.moreitems.got_pick"
+    }
+  },
+  "requirements": [
+    [
+      "got_pick"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

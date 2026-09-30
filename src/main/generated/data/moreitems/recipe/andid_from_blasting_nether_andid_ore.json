@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.5,
+  "group": "andid",
+  "ingredient": "moreitems:nether_andid_ore",
+  "result": {
+    "id": "moreitems:andid"
+  }
+}

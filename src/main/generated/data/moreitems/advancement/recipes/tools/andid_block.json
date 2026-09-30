@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_andid": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "moreitems:andid_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_andid"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "moreitems:andid_block"
+    ]
+  }
+}

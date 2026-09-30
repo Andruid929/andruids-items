@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "moreitems:andid_axe"
+  },
+  "max_uses": 2.0,
+  "reputation_discount": 0.5,
+  "wants": {
+    "count": 40.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10.0
+}

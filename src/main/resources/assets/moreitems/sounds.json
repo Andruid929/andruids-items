@@ -1,0 +1,18 @@
+{
+  "harmon_tune": {
+    "sounds": [
+      {
+        "name": "moreitems:harmon_tune",
+        "stream": true
+      }
+    ]
+  },
+  "yokai_tune": {
+    "sounds": [
+      {
+        "name": "moreitems:yokai_tune",
+        "stream": true
+      }
+    ]
+  }
+}

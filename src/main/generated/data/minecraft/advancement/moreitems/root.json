@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "got_residuum": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:raw_andid"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/adventure",
+    "description": {
+      "translate": "advancements_desc.moreitems.andruids_items"
+    },
+    "icon": {
+      "id": "moreitems:andid_block"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.moreitems.andruids_items"
+    }
+  },
+  "requirements": [
+    [
+      "got_residuum"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

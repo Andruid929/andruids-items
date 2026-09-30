@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "moreitems",
+	"version": "${version}",
+	"name": "Andruid's items",
+	"description": "Minecraft needs a little extras, here's my approach :)",
+	"authors": [
+		"Andruid929"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All rights reserved",
+	"icon": "assets/moreitems/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.druidlabs.moreitems.MoreItems"
+		],
+		"client": [
+			"net.druidlabs.moreitems.MoreItemsClient"
+		],
+		"fabric-datagen": [
+			"net.druidlabs.moreitems.MoreItemsDataGenerator"
+		]
+	},
+	"mixins": [
+		"moreitems.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.5",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

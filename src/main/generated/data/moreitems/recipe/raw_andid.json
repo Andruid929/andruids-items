@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "moreitems:raw_andid_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "moreitems:raw_andid"
+  }
+}

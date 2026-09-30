@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 220,
+  "experience": 0.8,
+  "group": "andid",
+  "ingredient": "moreitems:raw_andid",
+  "result": {
+    "id": "moreitems:andid"
+  }
+}

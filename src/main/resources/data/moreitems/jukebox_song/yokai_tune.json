@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "sounds.moreitems.yokai_music_disc"
+  },
+  "length_in_seconds": 208,
+  "sound_event": "moreitems:yokai_tune"
+}

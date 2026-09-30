@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "moreitems:andid"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "moreitems:andid"
+      }
+    ]
+  }
+}

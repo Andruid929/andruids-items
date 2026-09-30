@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:moreitems/root",
+  "criteria": {
+    "got_leaf": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:leaf"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.got_leaf"
+    },
+    "icon": {
+      "id": "moreitems:leaf"
+    },
+    "title": {
+      "translate": "advancement.moreitems.got_leaf"
+    }
+  },
+  "requirements": [
+    [
+      "got_leaf"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

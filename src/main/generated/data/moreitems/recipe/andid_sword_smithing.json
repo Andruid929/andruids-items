@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "moreitems:andid_block",
+  "base": "minecraft:diamond_sword",
+  "result": {
+    "id": "moreitems:andid_sword"
+  },
+  "template": "moreitems:andid_upgrade"
+}

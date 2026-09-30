@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "moreitems:andid_block",
+  "base": "minecraft:diamond_pickaxe",
+  "result": {
+    "id": "moreitems:andid_pickaxe"
+  },
+  "template": "moreitems:andid_upgrade"
+}

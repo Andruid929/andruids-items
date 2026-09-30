@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "moreitems:andid_block",
+    "E": "minecraft:enchanted_golden_apple"
+  },
+  "pattern": [
+    "AAA",
+    "AEA",
+    "AAA"
+  ],
+  "result": {
+    "id": "moreitems:druid_apple"
+  }
+}

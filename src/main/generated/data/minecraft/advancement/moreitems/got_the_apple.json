@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:moreitems/got_andide",
+  "criteria": {
+    "got_the_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:druid_apple"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.got_the_apple"
+    },
+    "icon": {
+      "id": "moreitems:druid_apple"
+    },
+    "title": {
+      "translate": "advancement.moreitems.got_the_apple"
+    }
+  },
+  "requirements": [
+    [
+      "got_the_apple"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "moreitems:andid_shovel"
+  },
+  "max_uses": 2.0,
+  "reputation_discount": 0.5,
+  "wants": {
+    "count": 30.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10.0
+}

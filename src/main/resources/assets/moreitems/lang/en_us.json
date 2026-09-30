@@ -1,0 +1,89 @@
+{
+  "item.moreitems.andid": "Andid",
+  "item.moreitems.druid_apple": "Druid's apple",
+  "item.moreitems.raw_andid": "Residuum",
+  "item.moreitems.leaf": "Seirei's leaf",
+  "item.moreitems.ember": "Heated ember",
+  "item.moreitems.andid_sword": "Ethereal sword",
+  "item.moreitems.andid_axe": "Ethereal axe",
+  "item.moreitems.andid_pickaxe": "Ethereal pick",
+  "item.moreitems.andid_shovel": "Spade",
+  "item.moreitems.andid_helm": "Ethereal helm",
+  "item.moreitems.andid_chestplate": "Ethereal plate",
+  "item.moreitems.andid_leggings": "Ethereal leggings",
+  "item.moreitems.andid_boots": "Ethereal boots",
+  "item.moreitems.sad_juice": "Sad juice",
+  "item.moreitems.andid_upgrade": "Ethereal upgrade",
+  "item.moreitems.fireball": "Fireball",
+  "item.moreitems.andid_spear": "Ethereal spear",
+
+  "item.moreitems.the_music_disc": "Royalty music disc",
+  "sounds.moreitems.the_music_disc": "Ezgod, Maestro Chives & Neoni - Royalty",
+  "item.moreitems.yokai_music_disc": "Yokai's music disc",
+  "sounds.moreitems.yokai_music_disc": "El Shaddai - Formula",
+
+
+  "block.moreitems.andid_block": "Andide",
+  "block.moreitems.raw_andid_block": "Residuum block",
+  "block.moreitems.andid_ore": "Ethereal residuum",
+  "block.moreitems.nether_andid_ore": "Nether Ethereal residuum",
+  "block.moreitems.seirei_flower": "Seirei's flower",
+  "block.moreitems.xp_block": "Experience block",
+  "block.moreitems.ember_block": "Ember block",
+
+
+  "tooltip.moreitems.ember": "A small, hot burning object. 9 of these make an amazing fuels source",
+  "tooltip.moreitems.druid_apple": "Alien fruit that grants temporal immortality",
+  "tooltip.moreitems.raw_andid": "Not yet useful metallic residue",
+  "tooltip.moreitems.raw_andid_block": "Not yet useful metallic residue block",
+  "tooltip.moreitems.andid": "Light, durable metallic substance",
+  "tooltip.moreitems.leaf": "Seirei's spirit within nature's drop of green",
+  "tooltip.moreitems.andid_pickaxe": "Mine, o mine",
+  "tooltip.moreitems.andid_axe": "Getting surrounded? I'll help!",
+  "tooltip.moreitems.andid_shovel": "Dig, dig, DIG!!!",
+  "tooltip.moreitems.andid_sword": "Be swift and endure",
+  "tooltip.moreitems.andid_helm": "Headgear, super useful",
+  "tooltip.moreitems.andid_chestplate": "Metallic chestwear?",
+  "tooltip.moreitems.andid_leggings": "Metal on your legs",
+  "tooltip.moreitems.andid_boots": "Lightweight",
+  "tooltip.moreitems.andid_upgrade": "Use this to upgrade diamond armor to ethereal armor",
+  "tooltip.moreitems.seirei_flower": "Seirei's bitter tears gave rise to a toxic flower",
+
+
+  "ability.moreitems.andid_pickaxe1": "Right click on a block to mine in a 3x3",
+  "ability.moreitems.andid_pickaxe2": "Right click on a block while sneaking to strip mine",
+
+  "ability.moreitems.andid_axe1": "Right click on a mob to to freeze any close by mob of the same kind",
+  "ability.moreitems.andid_axe2": "Attack a mob while sneaking to launch nearby mobs into the air and wither them",
+
+  "ability.moreitems.andid_sword1": "Right click to get speed for 20 seconds, effect stacks up. 5 second cooldown",
+  "ability.moreitems.andid_sword2": "Right click while sneaking to get double health for 20 seconds",
+
+  "tooltip.moreitems.xp_block": "It is exactly what the name suggests :)",
+  "tooltip.moreitems.ember_block": "Another block I HIGHLY recommend standing on :)",
+
+
+  "advancement.moreitems.got_andid": "Alienware",
+  "advancement_desc.moreitems.got_andid": "Get an Andid",
+  "advancement.moreitems.got_andid_block": "Is that an Andide I see?",
+  "advancement_desc.moreitems.got_andid_block": "Get an Andide",
+  "advancement.moreitems.got_ember_block": "Ooh, hot hot",
+  "advancement_desc.moreitems.got_ember_block": "Crafted ember block",
+  "advancement.moreitems.got_the_apple": "Druid says Hi",
+  "advancement_desc.moreitems.got_the_apple": "Get Druid's apple",
+  "advancement.moreitems.got_leaf": "Ready for rejuvenation",
+  "advancement_desc.moreitems.got_leaf": "Get Seirei's leaf",
+  "advancement.moreitems.got_pick": "Isn't it ethereal pick",
+  "advancement_desc.moreitems.got_pick": "Get an andid pickaxe",
+  "advancement.moreitems.full_set": "Firm protector",
+  "advancement_desc.moreitems.full_set": "Acquire a full set of ethereal armour",
+  "advancement.moreitems.ate_leaf": "Eat your greens",
+  "advancement_desc.moreitems.ate_leaf": "Consume Seirei's leaf",
+  "advancements.moreitems.andruids_items": "Andruid's items",
+  "advancements_desc.moreitems.andruids_items": "Advancements from the Andruid's items mod",
+
+  "message.low_strip_durability": "Not enough durability to strip mine",
+  "message.low_burrow_durability": "Not enough durability to destroy area",
+
+  "itemgroup.andid": "Andruid's items"
+}

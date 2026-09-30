@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:moreitems/got_leaf",
+  "criteria": {
+    "ate_leaf": {
+      "conditions": {
+        "item": {
+          "items": "moreitems:leaf"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.ate_leaf"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "moreitems:leaf"
+    },
+    "title": {
+      "translate": "advancement.moreitems.ate_leaf"
+    }
+  },
+  "requirements": [
+    [
+      "ate_leaf"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

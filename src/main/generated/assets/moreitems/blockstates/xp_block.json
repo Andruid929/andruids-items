@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "moreitems:block/xp_block"
+    }
+  }
+}

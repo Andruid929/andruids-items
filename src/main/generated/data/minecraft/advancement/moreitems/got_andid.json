@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:moreitems/root",
+  "criteria": {
+    "got_andid": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.got_andid"
+    },
+    "icon": {
+      "id": "moreitems:andid"
+    },
+    "title": {
+      "translate": "advancement.moreitems.got_andid"
+    }
+  },
+  "requirements": [
+    [
+      "got_andid"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

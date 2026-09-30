@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:moreitems/got_andid",
+  "criteria": {
+    "got_andide": {
+      "conditions": {
+        "items": [
+          {
+            "items": "moreitems:andid_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement_desc.moreitems.got_andid_block"
+    },
+    "icon": {
+      "id": "moreitems:andid_block"
+    },
+    "title": {
+      "translate": "advancement.moreitems.got_andid_block"
+    }
+  },
+  "requirements": [
+    [
+      "got_andide"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

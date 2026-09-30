@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "moreitems:andid_block",
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "id": "moreitems:andid_shovel"
+  },
+  "template": "moreitems:andid_upgrade"
+}
