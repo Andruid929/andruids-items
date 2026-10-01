@@ -8,10 +8,10 @@
 		"Andruid929"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Andruid929",
+		"sources": "https://github.com/Andruid929/andruids-items"
 	},
-	"license": "All rights reserved",
+	"license": "MIT",
 	"icon": "assets/moreitems/icon.png",
 	"environment": "*",
 	"entrypoints": {
